@@ -16,4 +16,5 @@ s[i] = b;
 i++;      
 n--;  
 }
- return (s);
+return (s);
+}
