@@ -1,10 +1,5 @@
 #include "main.h"
-/**
- * wildcmp - compares two strings
- * @s1: 1st string to be compared
- * @s2: second string containing '*' or not
- * Return: 1 if the strings can be considered as identical, and 0
- **/
+#include <stdio.h>
 int is_palindrome(char *s)
 {
   if (*s1 == '\0' && *s2 == '\0')
