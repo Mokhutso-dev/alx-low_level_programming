@@ -1,6 +1,6 @@
 #include "main.h"
 int main(void)
 {
-_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+_puts("\"The goal is to be a Software developer with Cycbersecurity and Networks skills\"\n\t- Mokhutso Manaswe");
 return (0);
 }
