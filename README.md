@@ -1,1 +1,1 @@
-C programing language
+C - programming
